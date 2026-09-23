@@ -1,0 +1,6 @@
+{
+  "name": "NEWS24 BD",
+  "description": "Mobile-first Bangladeshi news channel application featuring breaking news tickers, top stories, category feeds, video broadcasts, photo galleries, bookmarks, and editorial dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
